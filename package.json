@@ -2,7 +2,7 @@
   "name": "react-movie-apps",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sandip-rocks.github.io/react-movie-app",
+  "homepage": "https://sandip-rocks.github.io/react-movie-app",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
